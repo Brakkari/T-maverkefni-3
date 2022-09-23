@@ -33,10 +33,6 @@
 
 ![20220923_140651](https://user-images.githubusercontent.com/111975382/191980328-1e0e86d5-66b3-43bf-b0a4-39cd19ab2595.jpg)
 
-# hönnunar teikning (.svg) af boxinu
-
-(N/A)
-
 # Ljósmyndir af samsetningu frumgerðar
 
 ![20220923_140840](https://user-images.githubusercontent.com/111975382/191980258-1c998a51-fded-477e-8207-37d927e44f42.jpg)
