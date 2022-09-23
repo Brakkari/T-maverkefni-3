@@ -13,23 +13,23 @@
 
 [Mindmand af kláruðu Simon Says leikfáng að spila](https://www.youtube.com/watch?v=T5qiUoWLdf4)
 
-# Mind af kláruðum teikningum firir verkefnið
+# Mynd af kláruðum teikningum fyrir verkefnið
 
 ![teikning](https://user-images.githubusercontent.com/111975382/191981920-b9c542a1-7978-4547-af10-b59fbfd9633b.jpg)
 
-# Mind af kláruðu boxinu
+# Mynd af kláruðu boxinu
 
 ![20220923_140518](https://user-images.githubusercontent.com/111975382/191980362-10f59636-13c8-4d5a-94d7-96a3c0819637.jpg)
 
-# Mind inní boxinu
+# Mynd inní boxinu
 
 ![box opið](https://user-images.githubusercontent.com/111975382/191978735-355adb3e-2972-406d-b5e4-0929b5ef288b.jpg)
 
-# Mind af frammhliðini lóðunum
+# Mynd af frammhliðini lóðunum
 
 ![lóðun fram](https://user-images.githubusercontent.com/111975382/191977902-2ae83ceb-b533-4537-81aa-85c18611f6c4.jpg)
 
-# Mind af bakhlið lóðun
+# Mynd af bakhlið lóðun
 
 ![20220923_140651](https://user-images.githubusercontent.com/111975382/191980328-1e0e86d5-66b3-43bf-b0a4-39cd19ab2595.jpg)
 
