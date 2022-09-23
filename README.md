@@ -6,13 +6,12 @@
 | firsta nafn | Breki       |
 | seinni nafn | Hlynsson    |
 
-í verkefninu átti að setja upp simon says með tökkum og hljóðtölurum og teingt saman með vinelbordi
-og með rafmagn teingt batteríi og swith
+í verkefninu átti að hanna simon says dót með tökkum og hljóðtölurum teingt saman með vinelborði með rafmagn teingt batteríi sem er hægt að slökkva og kveikja á með rofa.
+
+[Wikipedia af simon says leikfángi](https://en.wikipedia.org/wiki/Simon_(game))
 
 
-mindband af kláruðu boxinu
-
-(N/A)
+[Mindmand af kláruðu Simon Says leikfáng að spila](https://www.youtube.com/watch?v=T5qiUoWLdf4)
 
 
 mind af kláruðu boxinu
@@ -41,7 +40,7 @@ Ljósmynd af samsetningu frumgerðar
 
 kóðin fyrir simon saese
 
-`
+```
 /*
 Simon Says game. Now with sound effects. 
 Originaly made by Robert Spann
@@ -300,4 +299,4 @@ void fail() { //Function used if the player fails to match the sequence
   delay(500);
   turn = -1; //Resets turn value so the game starts over without need for a reset button
 }
-`
+```
