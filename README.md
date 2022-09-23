@@ -11,7 +11,7 @@
 
 [Wikipedia af simon says leikfángi](https://en.wikipedia.org/wiki/Simon_(game))
 
-[Mindmand af kláruðu Simon Says leikfáng að spila](https://www.youtube.com/watch?v=T5qiUoWLdf4)
+[Myndband af kláruðu Simon Says leikfang að spila](https://www.youtube.com/watch?v=T5qiUoWLdf4)
 
 # Mynd af kláruðum teikningum fyrir verkefnið
 
