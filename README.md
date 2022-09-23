@@ -3,13 +3,12 @@
  
 | Nafn        |             |
 | ----------- | ----------- |
-| firsta nafn | Breki       |
-| seinni nafn | Hlynsson    |
+| Firsta nafn | Breki       |
+| Seinni nafn | Hlynsson    |
 
-í verkefninu átti að hanna simon says dót með tökkum og hljóðtölurum teingt saman með vinelborði með rafmagn teingt batteríi sem er hægt að slökkva og kveikja á með rofa.
+Í verkefninu átti að hanna simon says spilið með tökkum og hátölurum. Það var gert mað því að tengja saman með vinelborð, arduino með kóða í sér og rafmagn tengt með batteríi sem er hægt að slökkva og kveikja á með rofa.
 
 [Wikipedia af simon says leikfángi](https://en.wikipedia.org/wiki/Simon_(game))
-
 
 [Mindmand af kláruðu Simon Says leikfáng að spila](https://www.youtube.com/watch?v=T5qiUoWLdf4)
 
