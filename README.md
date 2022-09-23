@@ -14,31 +14,37 @@
 [Mindmand af kláruðu Simon Says leikfáng að spila](https://www.youtube.com/watch?v=T5qiUoWLdf4)
 
 
-mind af kláruðu boxinu
+# mind af kláruðu boxinu
+
+![20220923_140518](https://user-images.githubusercontent.com/111975382/191980362-10f59636-13c8-4d5a-94d7-96a3c0819637.jpg)
+
+# mind inní boxinu
+
+![box opið](https://user-images.githubusercontent.com/111975382/191978735-355adb3e-2972-406d-b5e4-0929b5ef288b.jpg)
+
+# mind af frammhliðini lóðunum
+
+![lóðun fram](https://user-images.githubusercontent.com/111975382/191977902-2ae83ceb-b533-4537-81aa-85c18611f6c4.jpg)
+
+# mind af bakhlið lóðun
+
+![20220923_140651](https://user-images.githubusercontent.com/111975382/191980328-1e0e86d5-66b3-43bf-b0a4-39cd19ab2595.jpg)
+
+#hönnunar teikning (.svg) af boxinu
 
 (N/A)
 
-mind inní boxinu
+#Ljósmynd af samsetningu frumgerðar
 
-(N/A)
+![20220923_140840](https://user-images.githubusercontent.com/111975382/191980258-1c998a51-fded-477e-8207-37d927e44f42.jpg)
 
-mind af lóðunum
+![takka vírar](https://user-images.githubusercontent.com/111975382/191978657-008d4f65-ac95-43ea-91eb-f818f688c6c0.jpg)
 
-(N/A)
-
-hönnunar teikning (.svg) af boxinu
-
-(N/A)
-
-Ljósmynd af samsetningu frumgerðar
-
-(N/A)
+![20220923_140829](https://user-images.githubusercontent.com/111975382/191980412-07958d78-b63f-44ef-9444-d1437454f445.jpg)
 
 
 
-
-
-kóðin fyrir simon saese
+# kóðin fyrir simon says
 
 ```
 /*
