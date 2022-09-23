@@ -1,9 +1,10 @@
 # Tímaverkefni-3
- Breki Hlynsson
+
+
  
 | Nafn        |             |
 | ----------- | ----------- |
-| Firsta nafn | Breki       |
+| Fyrsta nafn | Breki       |
 | Seinni nafn | Hlynsson    |
 
 Í verkefninu átti að hanna simon says spilið með tökkum og hátölurum. Það var gert mað því að tengja saman með vinelborð, arduino með kóða í sér og rafmagn tengt með batteríi sem er hægt að slökkva og kveikja á með rofa.
