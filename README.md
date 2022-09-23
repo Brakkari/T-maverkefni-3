@@ -1,7 +1,7 @@
 # Tímaverkefni-3
  Breki Hlynsson
  
-| Nafn        |              |
+| Nafn        |             |
 | ----------- | ----------- |
 | firsta nafn | Breki       |
 | seinni nafn | Hlynsson    |
